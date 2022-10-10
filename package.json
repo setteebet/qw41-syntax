@@ -1,0 +1,18 @@
+{
+  "name": "qw41-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "เว็บไม่อั้นหวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"เว็บไม่อั้นหวย",
+"รวมเว็บแทงหวย",
+"lottovip lottovip",
+"สมัครแทงหวยในเว็บ",
+"เว็บหวยสดสด"
+],
+  "repository": "https://github.com/setteebet/qw41-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
